@@ -164,6 +164,14 @@
 	font-family: "Brittney";
 	src: url('../fonts/Brittneys_font.ttf') format('truetype');
 	}
+	
+
 	h1{
 		text-align: center;
 		font: 80px "Brittney" }
+		
+hr { 
+    display: block;
+    margin-top: 12pxem;
+
+}
