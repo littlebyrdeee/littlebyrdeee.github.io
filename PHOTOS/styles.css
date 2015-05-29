@@ -159,3 +159,11 @@
   line-height: 48px;
   font-size: 12px;
 }
+
+@font-face {
+	font-family: "Brittney";
+	src: url('../fonts/Brittneys_font.ttf') format('truetype');
+	}
+	h1{
+		text-align: center;
+		font: 40px "Brittney" }
