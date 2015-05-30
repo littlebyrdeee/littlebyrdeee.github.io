@@ -160,8 +160,12 @@
   font-size: 12px;
 }
 
-*{
-margin = 50}
+p {
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 50px;
+}
 
 .nav .current{
 	background-color: red;
