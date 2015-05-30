@@ -135,7 +135,7 @@
 }
 #cssmenu ul li:hover > a,
 #cssmenu ul li.active > a {
-  background: #ff0000;
+  /* background: #C0C0C0; */
   color: #ffffff;
 }
 #cssmenu ul li.has-sub > a:after {
