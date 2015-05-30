@@ -101,7 +101,7 @@
   position: relative;
 }
 #cssmenu ul ul li:first-child > a {
-  border-top: 1px solid #ffff00;
+  border-top: 1px solid #0082e7;
 }
 #cssmenu ul ul li:hover > a {
   background: #4eb1ff;
