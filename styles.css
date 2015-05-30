@@ -160,7 +160,9 @@
   font-size: 12px;
 }
 
-body#Home #navHome     {color: yellow;}
+.nav .current{
+	background-color: red;
+	}
 
 @font-face {
 	font-family: "Brittney";
