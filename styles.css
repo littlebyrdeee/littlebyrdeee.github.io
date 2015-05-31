@@ -130,7 +130,7 @@
   content: '+';
   position: absolute;
   top: 50%;
-  right: 200px;
+  right: 15px;
   margin-top: -5px;
 }
 #cssmenu ul li:hover > a,
