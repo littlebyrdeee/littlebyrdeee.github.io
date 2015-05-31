@@ -66,7 +66,7 @@
   background: #333333;
   border-bottom: 4px solid #C0C0C0;
   font-family: 'Oxygen Mono', Tahoma, Arial, sans-serif;
-  font-size: 12px;
+  font-size: 14px;
 }
 #cssmenu > ul {
   *display: inline-block;
@@ -81,18 +81,18 @@
   text-transform: uppercase;
 }
 #cssmenu ul ul {
-  border-top: 4px solid #1b9bff;
+  border-top: 4px solid #c6c6c6;
   text-transform: none;
   min-width: 190px;
 }
 #cssmenu ul ul a {
-  background: #1b9bff;
+  background: #333333;
   color: #ffffff;
-  border: 1px solid #0082e7;
+  border: 1px solid #C0C0C0;
   border-top: 0 none;
   line-height: 150%;
   padding: 16px 20px;
-  font-size: 12px;
+  font-size: 14px;
 }
 #cssmenu ul ul ul {
   border-top: 0 none;
@@ -101,10 +101,10 @@
   position: relative;
 }
 #cssmenu ul ul li:first-child > a {
-  border-top: 1px solid #0082e7;
+  border-top: 1px solid #C0C0C0;
 }
 #cssmenu ul ul li:hover > a {
-  background: #4eb1ff;
+  background: #4d4d4d;
   color: #ffffff;
 }
 #cssmenu ul ul li:last-child > a {
@@ -114,9 +114,9 @@
   -moz-background-clip: padding;
   -webkit-background-clip: padding-box;
   background-clip: padding-box;
-  -moz-box-shadow: 0 1px 0 #1b9bff;
-  -webkit-box-shadow: 0 1px 0 #1b9bff;
-  box-shadow: 0 1px 0 #1b9bff;
+  -moz-box-shadow: 0 1px 0 #C0C0C0;
+  -webkit-box-shadow: 0 1px 0 #C0C0C0;
+  box-shadow: 0 1px 0 #C0C0C0;
 }
 #cssmenu ul ul li:last-child:hover > a {
   -moz-border-radius: 0 0 0 3px;
@@ -131,12 +131,12 @@
   position: absolute;
   top: 50%;
   right: 15px;
-  margin-top: -8px;
+  margin-top: -5px;
 }
 #cssmenu ul li:hover > a,
 #cssmenu ul li.active > a {
-  background: #C0C0C0;
-  color: #ffffff;
+  /* background: #C0C0C0;
+  color: #ffffff; */
 }
 #cssmenu ul li.has-sub > a:after {
   content: '+';
@@ -152,7 +152,7 @@
 }
 #cssmenu a {
   background: #333333;
-  color: #CBCBCB;
+  color:  #C0C0C0;
   padding: 0 20px;
 }
 #cssmenu > ul > li > a {
@@ -160,10 +160,39 @@
   font-size: 12px;
 }
 
+p {
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 50px;
+}
+
+.nav .current{
+	background-color: red;
+	}
+
+@font-face {
+	font-family: "BrittneySkinny";
+	src: url('../fonts/Brittneys_thin_font.ttf') format('truetype');
+	}
+	
+	p {
+		font: 40px "BrittneySkinny" }
+	
 @font-face {
 	font-family: "Brittney";
 	src: url('../fonts/Brittneys_font.ttf') format('truetype');
 	}
+	
+
 	h1{
 		text-align: center;
-		font: 40px "Brittney" }
+		font: 80px "Brittney" }
+		
+hr { 
+    display: block;
+    margin-top: 440px;
+
+}
+
+
