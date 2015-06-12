@@ -172,13 +172,9 @@ p {
 	}
 
 @font-face {
-	font-family: "BrittneySkinny";
-	src: url('../fonts/Brittneys_thin_font.ttf') format('truetype');
+	font-family: "Brittney";
+	src: url('../fonts/Brittneys_font.ttf') format('truetype');
 	}
-	
-	p {
-		font: 30px "BrittneySkinny" }
-	
 	
 
 	h1{
