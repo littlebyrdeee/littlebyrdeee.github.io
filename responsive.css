@@ -1,3 +1,9 @@
+body {
+color: red;
+
+}
+
+
 /* iPads (landscape) ----------- */
 @media only screen
 and (min-device-width : 768px)
