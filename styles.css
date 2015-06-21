@@ -179,7 +179,9 @@ p {
 
 	h1{
 		text-align: center;
-		font: 80px "Brittney" }
+		font: 80px "Brittney"
+		margin-bottom: 5px
+		margin-top: 5px}
 		
 hr { 
     display: block;
