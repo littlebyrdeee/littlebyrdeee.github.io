@@ -199,3 +199,7 @@ hr {
 .page{
 	max-width: 1200px;
 	margin: 0px auto 0px auto;}
+	
+	body { 
+    background: url(/img/ps_neutral.png) repeat 0 0;
+}
