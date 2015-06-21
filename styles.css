@@ -160,6 +160,11 @@
   font-size: 25px;
 }
 
+img{
+margin-top: 0px;
+margin-bottom: 0px;
+}
+
 body
 {
 background: #FFFFFF; 
