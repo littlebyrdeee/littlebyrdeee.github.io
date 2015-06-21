@@ -161,7 +161,7 @@
 }
 
 p {
-    margin-top: 150px;
+    margin-top: 250px;
     margin-bottom: 50px;
     margin-right: 50px;
     margin-left: 50px;
@@ -179,18 +179,13 @@ p {
 
 	h1{
 		text-align: center;
-		font: 80px "Brittney"
-		margin-bottom: 5px
-		margin-top: 5px}
+		font: 80px "Brittney"}
 		
 hr { 
     display: block;
     margin-top: 5px;
-	margin-bottom: 5px;
-
-}
+	margin-bottom: 5px;}
 
 .page{
 	max-width: 1200px;
-	margin: 0px auto 0px auto;
-}
+	margin: 0px auto 0px auto;}
