@@ -160,6 +160,11 @@
   font-size: 25px;
 }
 
+body
+{
+background: #FFFFFF; 
+}
+
 p {
     margin-top: 275px;
     margin-bottom: 50px;
