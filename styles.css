@@ -161,9 +161,9 @@
 }
 
 p {
-    margin-top: 100px;
-    margin-bottom: 100px;
-    margin-right: 150px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-right: 50px;
     margin-left: 50px;
 }
 
@@ -183,7 +183,7 @@ p {
 		
 hr { 
     display: block;
-    margin-top: 440px;
+    margin-top: 5px;
 	margin-bottom: 5px;
 
 }
