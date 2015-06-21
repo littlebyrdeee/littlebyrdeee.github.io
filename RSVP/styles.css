@@ -1,4 +1,4 @@
-@import url(http://fonts.googleapis.com/css?family=Oxygen+Mono);
+@import url(http://fonts.googleapis.com/css?family=Raleway)
 /* Starter CSS for Menu */
 #cssmenu {
   padding: 0;
@@ -157,13 +157,23 @@
 }
 #cssmenu > ul > li > a {
   line-height: 48px;
-  font-size: 12px;
+  font-size: 25px;
+}
+
+img{
+margin-top: 0px;
+margin-bottom: 0px;
+}
+
+body
+{
+background: #C0C0C0; 
 }
 
 p {
-    margin-top: 100px;
-    margin-bottom: 100px;
-    margin-right: 150px;
+    margin-top: 275px;
+    margin-bottom: 50px;
+    margin-right: 50px;
     margin-left: 50px;
 }
 
@@ -173,21 +183,22 @@ p {
 
 @font-face {
 	font-family: "Brittney";
-	src: url('../fonts/Brittneys_font.ttf') format('truetype');
+	src: url('../fonts/Brittneys_thin_font.ttf') format('truetype');
 	}
 	
 
 	h1{
 		text-align: center;
-		font: 80px "Brittney" }
+		font: 80px "Brittney"}
 		
 hr { 
     display: block;
-    margin-top: 440px;
-
-}
+    margin-top: 5px;
+	margin-bottom: 5px;}
 
 .page{
 	max-width: 1200px;
-	margin: 0px auto 0px auto;
-}
+	margin: 0px auto 0px auto;}
+	
+	body { 
+    background: url(/img/light_grey_floral_motif.png) repeat 0 0;}
