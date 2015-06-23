@@ -186,6 +186,11 @@ p {
 	src: url('../fonts/Brittneys_thin_font.ttf') format('truetype');
 	}
 	
+img.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
 
 	h1{
 		text-align: center;
